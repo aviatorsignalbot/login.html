@@ -2,7 +2,7 @@
 <html lang="tr">
 <head>
 				<meta charset="UTF-8">
-				<title>Sayfa başlığı</title>
+				<title>🖥️Best Aviator Signal site 🚀</title>
 </head>
 <body>
 				<style>
